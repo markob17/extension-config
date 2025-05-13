@@ -13,7 +13,7 @@
       ".cUnQKe",
       "a[rel~='sponsored']"
     ],
-    "organicResultTitleSelector": "h3",
+    "organicResultTitleSelector": "h4",
     "initialLinkSelector": "a[href]:not([href^='#']):not([href^='javascript:'])",
     "regularSearchObserverContainerSelectors": [
       "#rso",
