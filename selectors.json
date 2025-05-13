@@ -16,9 +16,9 @@
     "organicResultTitleSelector": "h3",
     "initialLinkSelector": "a[href]:not([href^='#']):not([href^='javascript:'])",
     "regularSearchObserverContainerSelectors": [
-      "#rrso",
-      "#ssearch",
-      "ddiv[data-async-context^='query:']"
+      "#rso",
+      "#search",
+      "div[data-async-context^='query:']"
     ]
   }
 }
