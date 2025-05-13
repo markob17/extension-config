@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-05-10T10:00:00Z",
+  "selectors": {
+    "adExclusionSelectors": [
+      "#tads",
+      "[aria-label='Ads']",
+      "div[data-text-ad='1']",
+      "gls-profile-entrypoint",
+      ".commercial-unit-desktop-gl",
+      ".pla-ext-gpa-wrapper",
+      ".top-pla-group-inner",
+      ".cUnQKe",
+      "a[rel~='sponsored']"
+    ],
+    "organicResultTitleSelector": "h3",
+    "initialLinkSelector": "a[href]:not([href^='#']):not([href^='javascript:'])"
+  }
+}
