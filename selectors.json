@@ -14,6 +14,11 @@
       "a[rel~='sponsored']"
     ],
     "organicResultTitleSelector": "h3",
-    "initialLinkSelector": "a[href]:not([href^='#']):not([href^='javascript:'])"
+    "initialLinkSelector": "a[href]:not([href^='#']):not([href^='javascript:'])",
+    "regularSearchObserverContainerSelectors": [
+      "#rso",
+      "#search",
+      "div[data-async-context^='query:']"
+    ]
   }
 }
