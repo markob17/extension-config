@@ -11,6 +11,7 @@
       ".pla-ext-gpa-wrapper",
       ".top-pla-group-inner",
       ".cUnQKe",
+      "div[data-initq]",
       "a[rel~='sponsored']"
     ],
     "organicResultTitleSelector": "h3",
