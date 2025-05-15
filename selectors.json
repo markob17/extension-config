@@ -29,12 +29,12 @@
       "div[jsname=\"dTDiAc\"]"
     ],
     "imageLinkSelectors": [
-      "a[role=\"link\"][jsname=\"sTFXNd\"]", // legacy maybe still need
-      "a.EZAeBe", // primacy selector - check first as may change often
-      "a.isv-link", // fallback
-      "div[jscontroller=\"N8Q1ib\"] a", // fallback for any <a> within a parent div with this value
-      "div[jsaction=\"h5M12e\"] a", // fallback for any <a> within a parent div with this value
-      "a[jsaction*=\"click:trigger ThumbnailEnterKeyAction\"]" // fallback
+      "a[role=\"link\"][jsname=\"sTFXNd\"]",
+      "a.EZAeBe", 
+      "a.isv-link", 
+      "div[jscontroller=\"N8Q1ib\"] a", 
+      "div[jsaction=\"h5M12e\"] a", 
+      "a[jsaction*=\"click:trigger ThumbnailEnterKeyAction\"]"
     ],
     "imageScanObserverContainerSelectors": [
       "#islrg",
